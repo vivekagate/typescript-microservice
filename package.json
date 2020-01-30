@@ -4,5 +4,5 @@
     "mongoose": "^5.8.10",
     "typescript": "^3.7.5"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
