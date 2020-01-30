@@ -1,9 +1,10 @@
 {
   "dependencies": {
     "express": "^4.17.1",
+    "kafka-node": "^5.0.0",
     "mongoose": "^5.8.10",
     "typescript": "^3.7.5"
   },
   "version": "0.0.2",
-  "name":"typescript-microservice"
+  "name": "typescript-microservice"
 }
